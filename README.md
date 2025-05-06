@@ -14,14 +14,14 @@ Este projeto apresenta uma análise de 250 pedidos de vendas feitos na Amazon em
 - Fonte de Dados: base fictícia com informações de pedidos da Amazon em 2025, disponível em [Kaggle - Amazon Sales 2025](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025)
 
 ### 🔍 Métricas e Visualizações
-- Faturamento total: **$244 mil**
-- Ticket médio: **$975,38**
-- Total de pedidos: **250**
-- Clientes únicos: **10**
-- Faturamento por **categoria** e por **produto**
-- Status dos pedidos (**completos, pendentes, cancelados**)
-- Métodos de pagamento mais utilizados
-- Análise geográfica das vendas nos EUA
+- Faturamento total: **$244 mil**;
+- Ticket médio: **$975,38**;
+- Total de pedidos: **250**;
+- Clientes únicos: **10**;
+- Faturamento por **categoria** e por **produto**;
+- Status dos pedidos (**completos, pendentes, cancelados**);
+- Métodos de pagamento mais utilizados;
+- Análise geográfica das vendas nos EUA.
 
 ### 📈 Insights Relevantes
 - A maior parte dos pedidos (**35,2 %**) foi completada com sucesso;
